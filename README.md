@@ -24,7 +24,7 @@ The application is, as mentioned before, an Add-On only. You can start it by tap
 ### How can I send the location to DonkeyGuard?
 Simply follow the steps below to send a location to DonkeyGuard:
 
-1. Tap on the "Pick" Button from the location input dialog 
+1. Tap on the "Pick" Button from the location input dialog (within DonkeyGuard)
 2. Create a marker by using the search feature or long-click on the map
 3. Tap on the info window of the marker and choose the option "Send location to DonkeyGuard".
 4. The addon will close and the location input dialog appears again.
