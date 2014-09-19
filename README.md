@@ -6,6 +6,7 @@ The Location Picker is the first Add-On for [DonkeyGuard](https://github.com/Col
 
 ## Installation Instructions
 First of all: The application is an Add-On only. You need DonkeyGuard installed to use it.
+
 1. Download the application from PlayStore
 2. Install it
 3. Pick and administrate your personal custom locations
