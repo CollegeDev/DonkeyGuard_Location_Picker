@@ -2,7 +2,7 @@
   <img src="http://www.bilderload.com/bild/352239/fun6653kj1QJYN1.png" alt="DonkeyGuard"/>
 </p>
 ## What is DonkeyGuard Location Picker?
-The Location Picker is the first Add-On for [DonkeyGuard](https://github.com/CollegeDev/DonkeyGuard) which allows an easy handling with custom locations. The Add-On allows you to manage your personal custom locations by using a map where you can simply work with. No more annoying [latitude/longitude](http://en.wikipedia.org/wiki/Geographic_coordinate_system) parsing with external tools to provide custom locations; DonkeyGuard Location Picker will do this for you.
+The Location Picker is the first Add-On for [DonkeyGuard](https://github.com/CollegeDev/DonkeyGuard) which allows an easy handling with custom locations. The Add-On allows you to manage your personal custom locations by using a map. No more annoying [latitude/longitude](http://en.wikipedia.org/wiki/Geographic_coordinate_system) parsing with external tools to provide custom locations; DonkeyGuard Location Picker will do this for you.
 
 ## Installation Instructions
 First of all: The application is an Add-On only. You need to install DonkeyGuard first to be able to use it.
